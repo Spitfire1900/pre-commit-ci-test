@@ -14,6 +14,7 @@ def another_function():
 
  y={'key1':123,'key2':456,
 'key3':789}
+ 
  for key,value in y.items():
      print(key ,value )
 
