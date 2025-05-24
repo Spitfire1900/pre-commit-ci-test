@@ -1,0 +1,7 @@
+[style]
+based_on_style = pep8
+column_limit = 88
+coalesce_brackets = true
+each_dict_entry_on_separate_line = false
+dedent_closing_brackets = false
+split_before_named_assigns = false
